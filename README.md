@@ -1,1 +1,1 @@
-# workshop-gra_w_zgadywanie_liczb_2
+# gra_w_zgadywanie_liczb_2
